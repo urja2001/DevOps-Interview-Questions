@@ -61,6 +61,6 @@ This repository is maintained by dedicated DevOps enthusiasts and contributors.
 
 We invite you to join our DevOps community! Feel free to connect with us on various social media platforms to stay updated with the latest discussions, events, and exciting opportunities.
 
-<a href="https://www.linkedin.com/in/aman-devops/"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/urja-jain2301/"> LinkedIn </a>
 
 Let's learn, grow, and succeed together in the world of DevOps! Happy interviewing! 🌟🎉
