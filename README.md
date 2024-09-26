@@ -18,39 +18,54 @@ Welcome to the DevOps Interview Questions repository! Here, you will find a comp
 This repository includes interview questions for the following DevOps tools and cloud platforms:
 
 1. **Version Control Systems:** Git, GitHub, GitLab, Bitbucket
-2. **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins, CircleCI, Travis CI, GitLab CI/CD
-3. **Configuration Management:** Ansible, Puppet, Chef
+2. **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins, GitLab CI/CD
+3. **Configuration Management:** Ansible
 4. **Containerization:** Docker, Kubernetes
 5. **Infrastructure as Code (IaC):** Terraform, CloudFormation
 6. **Cloud Platforms:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
 7. **Monitoring and Logging:** Prometheus, Grafana, ELK Stack
 8. **DevOps Best Practices and Methodologies**
-9. **Shell Scripting**
+9. **Shell & Python Scripting**
 10. **Networking Concepts in DevOps**
 11. **Security and Compliance in DevOps**
 
 These questions are aimed at helping you prepare for DevOps interviews and cover a wide range of topics to enhance your knowledge and skills in the field. The repository is open for contributions, so you can also add questions for any other relevant DevOps tools and platforms that are not already covered. Happy learning and interviewing! 🚀
-</br>
-</br>
-</br>
 
-<image src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="GitHub" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png" alt="Gitlab" height="75" width="150"> <image src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_167854.png" alt="Jenkins" height="75" width="150">  <image src="https://cdn.icon-icons.com/icons2/2699/PNG/512/circleci_logo_icon_168423.png" alt="CircleCI" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" alt="Ansible" height="75" width="150"> <image src="https://datanextsolutions.com/wp-content/uploads/2017/12/chef-logo.png" alt="Chef" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="75" width="150"> <image src="https://kubernetes.io/images/kubernetes-horizontal-color.png" alt="Kubernetes" height="75" width="150"> <image src="https://boxboat.com/2020/02/04/writing-a-custom-terraform-provider/featured.png" alt="Terraform" height="75" width="150"> <image src="https://i0.wp.com/foxutech.com/wp-content/uploads/2017/09/AWS-CloudFormation-1.png?fit=640%2C366&ssl=1" alt="CloudFormation" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png" alt="Microsoft Azure" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/2560px-Google_Cloud_logo.svg.png" alt="GCP" height="75" width="150"> <image src="https://res.cloudinary.com/dfg89e6oo/image/upload/c_fit,f_auto,h_450,w_750/v1626342444/y6cbyl4iky21q4lszbaq.svg" alt="Prometheus" height="75" width="150"> <image src="https://blog.knoldus.com/wp-content/uploads/2020/06/feature-image-prometheus.png" alt="Grafana" height="75" width="150"> <image src="https://www.seekpng.com/png/detail/221-2211816_elk-stack-logo.png" alt="ELK Stack" height="75" width="150">
-</br>
-</br>
-</br>
+<h3 align="left"> ☁️ Cloud Technologies : </h3>
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp;
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> &nbsp;
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+</p>
 
+<h3 align="left"> 💻 Languages :</h3>
+<p align="left"> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+</p>
 
-## Contributing
+<h3 align="left"> 🧰 Tools :</h3>
+<p align="left"> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a>  &nbsp;&nbsp;&nbsp;
+<a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo CD" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
+</p>
 
-We encourage you to contribute to this repository and help expand our collection of interview questions. To contribute, follow these steps:
-
-1. Fork this repository to your GitHub account.
-2. Create a new branch with a descriptive name.
-3. Add or modify the questions you want to contribute.
-4. Commit your changes and push them to your forked repository.
-5. Raise a pull request to this main repository.
-6. Our community moderators will review your contribution, and once approved, it will be merged.
-
+<h3 align="left"> ☁️ Cloud DevOpsS Tools 🧰 :</h3>
+<p align="left"> 
+<image src="https://i0.wp.com/foxutech.com/wp-content/uploads/2017/09/AWS-CloudFormation-1.png?fit=640%2C366&ssl=1" alt="CloudFormation" width="90" height="50">  
 
 ## Credits
 
@@ -59,7 +74,7 @@ This repository is maintained by dedicated DevOps enthusiasts and contributors.
 
 ## Join Our Community
 
-We invite you to join our DevOps community! Feel free to connect with us on various social media platforms to stay updated with the latest discussions, events, and exciting opportunities.
+I invite you to join my DevOps community! Feel free to connect with me on social media to stay updated with the latest discussions, events, and exciting opportunities.
 
 <a href="https://www.linkedin.com/in/urja-jain2301/"> LinkedIn </a>
 
