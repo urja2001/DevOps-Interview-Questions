@@ -4,15 +4,6 @@ Welcome to the DevOps Interview Questions repository! Here, you will find a comp
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Devops-toolchain.svg/1280px-Devops-toolchain.svg.png" alt="DevOps" height="150" width="300">
 
-
-## How to Use This Repository?
-
-1. Clone the repository to your local machine.
-2. Navigate to the dedicated directory for the tool or cloud platform you are interested in.
-3. Each file in the directory will contain a set of questions related to that specific topic.
-4. If you wish to add or modify questions, simply edit the respective file.
-5. Raise a merge request, and our community moderators will review and merge your contribution.
-
 ## Tools and Platforms Covered
 
 This repository includes interview questions for the following DevOps tools and cloud platforms:
@@ -57,13 +48,14 @@ These questions are aimed at helping you prepare for DevOps interviews and cover
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a>  &nbsp;&nbsp;&nbsp;
 <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo CD" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left"> ☁️ Cloud DevOpsS Tools 🧰 :</h3>
+<h3 align="left"> ☁️ Cloud DevOps Tools 🧰 :</h3>
 <p align="left"> 
 <image src="https://i0.wp.com/foxutech.com/wp-content/uploads/2017/09/AWS-CloudFormation-1.png?fit=640%2C366&ssl=1" alt="CloudFormation" width="90" height="50">  
 
