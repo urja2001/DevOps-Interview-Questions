@@ -1,0 +1,155 @@
+Docker interview questions and answers:
+
+1. What is Docker?
+
+-> Docker is a containerization platform.
+
+##############👇#############
+
+2. What is a Docker container?
+
+-> Lightweight, isolated process.
+
+##############👇#############
+
+3. What is Docker Hub?
+
+-> Public registry for Docker images.
+
+##############👇#############
+
+4. How do you create a Docker image?
+
+-> Using Dockerfile.
+
+##############👇#############
+
+5. What is Docker Engine?
+
+-> Core component, responsible for container lifecycle.
+
+##############👇#############
+
+6. What is Docker Daemon?
+
+-> Background process managing containers.
+
+##############👇#############
+
+7. What is a Docker Client?
+
+-> Command-line interface.
+
+##############👇#############
+
+8. What is `docker run`?
+
+-> Runs a container from an image.
+
+##############👇#############
+
+9. What is `docker build`?
+
+-> Builds an image from Dockerfile.
+
+##############👇#############
+
+10. What is `docker ps`?
+
+-> Lists running containers.
+
+##############👇#############
+
+11. Q: What is Docker networking?
+
+-> Enables container communication.
+
+##############👇#############
+
+12. What is a Docker bridge network?
+
+-> Default network, connecting containers.
+
+##############👇#############
+
+13. What is a Docker volume?
+
+-> Persistent storage for containers.
+
+##############👇#############
+
+14. How do you mount a volume?
+
+-> Using `-v` flag.
+
+##############👇#############
+
+15. What is Docker security?
+
+-> Ensures container isolation.
+
+##############👇#############
+
+16. What is Docker Content Trust?
+
+-> Verifies image integrity.
+
+##############👇#############
+
+17. What is Docker Swarm?
+
+-> Clustering and orchestration.
+
+##############👇#############
+
+18. What is Kubernetes?
+
+-> Container orchestration platform.
+
+##############👇#############
+
+19. How do you optimize Docker images?
+
+-> Minimizing layers.
+
+##############👇#############
+
+20. What is Docker multi-stage build?
+
+-> Optimizes image size.
+
+##############👇#############
+
+21. How would you troubleshoot a Docker container issue?
+
+-> Checking logs, verifying configuration.
+
+##############👇#############
+
+22. How would you scale a Docker application?
+
+-> Using Docker Swarm or Kubernetes.
+
+##############👇#############
+
+23. What are Docker best practices for security?
+
+-> Regular updates, least privilege.
+
+##############👇#############
+
+24. What are Docker best practices for performance?
+
+-> Resource limits, caching.
+
+##############👇#############
+
+25. How does Docker integrate with Kubernetes?
+
+-> Container runtime.
+
+##############👇#############
+
+26. What is Docker's role in a Kubernetes cluster?
+
+-> Running containers.
